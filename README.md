@@ -42,10 +42,15 @@ Extract → Transform → Combine → Load → Analyze
 Charts generated during the analysis:
 
 - Daily discharge and flood threshold
-- Rainfall and discharge during a storm event
-- Rainfall and discharge relationship
+  <img width="1389" height="590" alt="DailyRiverDischarge" src="https://github.com/user-attachments/assets/e48d7052-762b-4dee-b539-1d08c2a3b0a1" />
 
-![Daily Discharge Chart]<img width="1389" height="590" alt="DailyRiverDischarge" src="https://github.com/user-attachments/assets/e48d7052-762b-4dee-b539-1d08c2a3b0a1" />
+
+- Rainfall and discharge during a storm event
+  <img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/a9410389-1269-479d-bb48-369a4a861399" />
+
+
+- Rainfall and discharge relationship
+  <img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/43425e96-20cc-4c16-bc2e-3a41b664a623" />
 
 
 ## Limitations
