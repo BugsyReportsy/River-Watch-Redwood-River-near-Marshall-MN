@@ -82,4 +82,4 @@ Weather data provided by Open-Meteo.
 
 ## Author
 
-[Don Huynh]
+Don Huynh
