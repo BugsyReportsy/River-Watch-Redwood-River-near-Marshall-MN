@@ -76,9 +76,21 @@ Libraries used include:
 
 ## Attribution
 
-Streamflow data provided by the U.S. Geological Survey (USGS).
+**Streamflow Data**
 
-Weather data provided by Open-Meteo.
+Streamflow data provided by the [United States Geological Survey (USGS)](https://www.usgs.gov/).
+
+Data retrieved through the [USGS Water Data APIs](https://api.waterdata.usgs.gov/), specifically the [Daily Values API](https://api.waterdata.usgs.gov/ogcapi/v0/collections/daily/items).
+
+USGS water data is U.S. Government work in the public domain. For additional information on citing USGS data, see the [USGS Water Data citation guidelines](https://waterdata.usgs.gov/citation/).
+
+**Historical Weather Data**
+
+Weather data provided by [Open-Meteo](https://open-meteo.com/), using the [Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api).
+
+Open-Meteo API data is provided under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Weather data was retrieved, processed, and combined with streamflow measurements for this project. Changes were made through data cleaning, transformation, and aggregation.
 
 ## Author
 
