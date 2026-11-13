@@ -45,7 +45,8 @@ Charts generated during the analysis:
 - Rainfall and discharge during a storm event
 - Rainfall and discharge relationship
 
-![Daily Discharge Chart](charts/daily_discharge.png)
+![Daily Discharge Chart](<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/1c0279a4-bf6c-4da9-ada1-208378f6696f" />
+)
 
 ## Limitations
 
